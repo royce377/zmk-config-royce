@@ -16,9 +16,6 @@
 #define ADJUST 3
 
 / { 
-    chosen {
-        zmk,backlight = &backlight;
-    };
 
    // Activate ADJUST layer by pressing raise and lower
     conditional_layers {
