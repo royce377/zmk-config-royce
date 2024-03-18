@@ -85,7 +85,7 @@
 
             bindings = <
 &trans  &trans      &trans     &trans       &trans       &trans                      &trans     &trans    &trans    &trans     &trans  &kp BSPC
-&trans  &kp INS     &kp PSCRN  &kp K_CMENU  &trans       &trans                      &kp PG_UP  &kp HOME  &kp UP    &kp END    &kp N0  &kp DEL
+&trans  &kp INS     &kp PSCRN  &kp K_CMENU  &trans       &trans                      &kp PG_UP  &kp HOME  &kp UP    &kp END    &trans  &kp DEL
 &trans  &kp LALT    &kp SPACE  &kp DELETE   &trans       &kp CLCK                    &kp PG_DN  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans
 &trans  &kp K_UNDO  &kp K_CUT  &kp K_COPY   &kp K_PASTE  &trans    &trans    &trans  &trans     &trans    &trans    &trans     &trans  &trans
                     &trans     &trans       &trans       &trans    &trans    &trans  &trans     &trans    &trans    &trans
